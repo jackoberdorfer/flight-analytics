@@ -1,0 +1,1 @@
+This project involves loading a airline datset into Python, cleaning it, and analyzing certain features of the airline (arrival time, Wi-Fi, etc.) and their impact on the satisfaction levels of its travelers.
